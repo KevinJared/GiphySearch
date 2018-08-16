@@ -1,0 +1,26 @@
+.container {
+  background-color: black;
+  height: 100vh;
+  min-width: 800px;
+}
+
+.button,
+input,
+select,
+textarea {
+  margin-top: 10px;
+  height: 50px;
+  width: 90%;
+}
+
+.btn{
+  height: 50px;
+  background: linear-gradient(90deg, violet,violet, rgb(173, 24, 179));
+  border-radius: 0px;
+  vertical-align: 0%;
+  width: 10%;
+}
+
+.body {
+  background-color: black;
+}
